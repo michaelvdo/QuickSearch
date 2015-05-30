@@ -8,8 +8,8 @@
 * 1) Voeg de class "quick-search" toe aan het zoekveld waar je snel mee wilt zoeken.
 * 2) Voeg de class "quick-search-column" toe aan de <th> waarop je wilt zoeken (bijvoorbeeld in de 1e <tr>).
 *
-*
-*
+* To-do:
+* Voeg mogelijkheid toe om meerdere kolommen als zoekbaar te markeren.
 */
 
 $(function() {
