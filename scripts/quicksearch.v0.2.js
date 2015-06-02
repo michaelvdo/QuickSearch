@@ -12,6 +12,7 @@
 * ~ meh ~ Voeg mogelijkheid toe om meerdere kolommen als zoekbaar te markeren.
 *
 * search date opties?
+*
 */
 
 $(function() {
