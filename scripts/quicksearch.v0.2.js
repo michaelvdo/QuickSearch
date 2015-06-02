@@ -9,7 +9,9 @@
 * 2) Voeg de class "quick-search-column" toe aan de <th> waarop je wilt zoeken (bijvoorbeeld in de 1e <tr>).
 *
 * To-do:
-* Voeg mogelijkheid toe om meerdere kolommen als zoekbaar te markeren.
+* ~ meh ~ Voeg mogelijkheid toe om meerdere kolommen als zoekbaar te markeren.
+*
+* search date opties?
 */
 
 $(function() {
